@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skasfaqahamed&label=Profile%20views&color=0e75b6&style=flat" alt="skasfaqahamed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@asfaq_sk" target="blank"><img src="https:![image](https://github.com/SKASFAQAHAMED/SKASFAQAHAMED/assets/92204267/3c1c6ed2-648a-4062-84a7-4320b148eeff)
+<p align="left"> <a href="https://www.linkedin.com/in/sk-asfaq-ahamed-9760871b9" target="blank"><img src="https:![image](https://github.com/SKASFAQAHAMED/SKASFAQAHAMED/assets/92204267/3c1c6ed2-648a-4062-84a7-4320b148eeff)
 //img.shields.io/twitter/follow/@asfaq_sk?logo=twitter&style=for-the-badge" alt="@asfaq_sk" />Hello</a> </p>
 
 - 🔭 I’m currently working on **Android & Web app**
