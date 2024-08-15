@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hello 👋, this side Sk Asfaq Ahamed</h1>
 <h3 align="center">A passionate full stack developer from India,Bengal,Howrah</h3>
 
-<img align="right" alt="We apologigize for the inconvenience, image being maintenance." width="400" src="[[https://medium.com/beehive-software/what-is-coding-ffc6241ed49f](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fbeehive-software%2Fwhat-is-coding-ffc6241ed49f&psig=AOvVaw3Hg0Q44nmFcIDiVq-vqU-k&ust=1723739285008000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjMjbHz9IcDFQAAAAAdAAAAABBH)](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.21kschool.com%2Fgh%2Fblog%2Fwhat-is-block-coding-for-kids%2F&psig=AOvVaw3Hg0Q44nmFcIDiVq-vqU-k&ust=1723739285008000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjMjbHz9IcDFQAAAAAdAAAAABBP)">
+<img align="right" alt="We apologigize for the inconvenience, image being maintenance." width="400" src="https://regmedia.co.uk/2020/03/03/shutterstock_u_turn.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skasfaqahamed&label=Profile%20views&color=0e75b6&style=flat" alt="skasfaqahamed" /> </p>
 
